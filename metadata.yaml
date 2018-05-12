@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '40178'
     url: http://www.gutenberg.org/2009/agents/40178
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39723#The-World-Before-the-Deluge
 gutenberg_issued: '2012-05-18'
 gutenberg_type: Text
 identifiers:
